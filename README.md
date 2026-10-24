@@ -2,6 +2,8 @@
 
 **AI Automation Engineer · CSE Undergraduate at Islamic University of Technology (IUT) · Research Collaborator**
 
+![Profile views](https://komarev.com/ghpvc/?username=Meftahul-Anu13&style=flat-square&color=blueviolet&label=Profile+Views)
+
 Meftahul Jannati Anonna is a Computer Science & Engineering undergraduate at the Islamic University of Technology (IUT), Bangladesh, and an AI Automation Engineer at Aspire Tech Services and Solutions Corp. Her work spans applied machine learning, computer vision, full-stack AI product engineering, and research on the reliability of large language model (LLM) systems. She is based in Dhaka, Bangladesh.
 
 ## Currently
@@ -46,11 +48,34 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 
 ## Skills
 
-**Languages:** Java · Python · JavaScript · TypeScript · C++ · HTML/CSS
-**Frameworks:** Spring Boot · Django · Flask · FastAPI · Next.js · React · Tailwind CSS · Maven
-**ML / Data:** TensorFlow · NumPy · Pandas · Matplotlib
-**Databases:** PostgreSQL · MongoDB · MySQL
-**Tools:** Figma · Canva · Insomnia
+**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" alt="Java, Python, JavaScript, TypeScript, C++, HTML, CSS" />
+
+**Frameworks**
+<img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,nextjs,react,tailwind,maven" alt="Spring Boot, Django, Flask, FastAPI, Next.js, React, Tailwind CSS, Maven" />
+
+**ML / Data**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> · NumPy · Pandas · Matplotlib
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> · Canva · Insomnia
+
+## GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Meftahul-Anu13&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Meftahul's GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meftahul-Anu13&layout=compact&hide_border=true&theme=default" alt="Meftahul's most used languages" height="165" />
+
+### Isometric Commit Calendar
+
+<img src="./github-metrics.isocalendar.svg" alt="Isometric commit calendar" />
+<sub>Renders after this repo is pushed to GitHub and the <code>Metrics</code> workflow has run once — see setup steps below.</sub>
+
+### Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=Meftahul-Anu13&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA" alt="Meftahul's GitHub trophies" />
 
 ## Achievements
 
