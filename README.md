@@ -65,8 +65,8 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meftahul-Anu13&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Meftahul's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meftahul-Anu13&layout=compact&hide_border=true&theme=default" alt="Meftahul's most used languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=Meftahul-Anu13&show_icons=true&hide_border=true&theme=default&count_private=true" alt="Meftahul's GitHub stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Meftahul-Anu13&layout=compact&hide_border=true&theme=default" alt="Meftahul's most used languages" height="165" />
 
 ### Isometric Commit Calendar
 
