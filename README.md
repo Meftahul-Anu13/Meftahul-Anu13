@@ -49,19 +49,19 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 ## Skills
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" alt="Java, Python, JavaScript, TypeScript, C++, HTML, CSS" />
+<img src="./assets/skills/languages.svg" alt="Java, Python, JavaScript, TypeScript, C++, HTML, CSS" />
 
 **Frameworks**
-<img src="https://skillicons.dev/icons?i=spring,django,flask,fastapi,nextjs,react,tailwind,maven" alt="Spring Boot, Django, Flask, FastAPI, Next.js, React, Tailwind CSS, Maven" />
+<img src="./assets/skills/frameworks.svg" alt="Spring Boot, Django, Flask, FastAPI, Next.js, React, Tailwind CSS, Maven" />
 
 **ML / Data**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> · NumPy · Pandas · Matplotlib
+<img src="./assets/skills/ml-data.svg" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> · NumPy · Pandas · Matplotlib
 
 **Databases**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="PostgreSQL, MongoDB, MySQL" />
+<img src="./assets/skills/databases.svg" alt="PostgreSQL, MongoDB, MySQL" />
 
 **Tools**
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" /> · Canva · Insomnia
+<img src="./assets/skills/tools.svg" alt="Figma" /> · Canva · Insomnia
 
 ## GitHub Activity
 
