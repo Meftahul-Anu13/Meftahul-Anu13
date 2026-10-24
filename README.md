@@ -73,10 +73,6 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 <img src="./github-metrics.isocalendar.svg" alt="Isometric commit calendar" />
 <sub>Renders after this repo is pushed to GitHub and the <code>Metrics</code> workflow has run once — see setup steps below.</sub>
 
-### Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=Meftahul-Anu13&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA" alt="Meftahul's GitHub trophies" />
-
 ## Achievements
 
 - 🥇 Noverse Inc. National Hackathon — 1st Runners-Up
