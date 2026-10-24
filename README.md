@@ -55,13 +55,13 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 <img src="./assets/skills/frameworks.svg" alt="Spring Boot, Django, Flask, FastAPI, Next.js, React, Tailwind CSS, Maven" />
 
 **ML / Data**
-<img src="./assets/skills/ml-data.svg" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> · NumPy · Pandas · Matplotlib
+<img src="./assets/skills/ml-data.svg" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> <img src="./assets/skills/numpy.svg" alt="NumPy" /> <img src="./assets/skills/pandas.svg" alt="Pandas" /> · Matplotlib
 
 **Databases**
 <img src="./assets/skills/databases.svg" alt="PostgreSQL, MongoDB, MySQL" />
 
 **Tools**
-<img src="./assets/skills/tools.svg" alt="Figma" /> · Canva · Insomnia
+<img src="./assets/skills/tools.svg" alt="Figma" /> <img src="./assets/skills/insomnia.svg" alt="Insomnia" /> · Canva
 
 ## GitHub Activity
 
