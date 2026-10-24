@@ -71,7 +71,6 @@ More projects: [github.com/Meftahul-Anu13?tab=repositories](https://github.com/M
 ### Isometric Commit Calendar
 
 <img src="./github-metrics.isocalendar.svg" alt="Isometric commit calendar" />
-<sub>Renders after this repo is pushed to GitHub and the <code>Metrics</code> workflow has run once — see setup steps below.</sub>
 
 ## Achievements
 
